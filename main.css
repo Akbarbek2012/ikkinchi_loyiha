@@ -1,0 +1,87 @@
+.box-1{
+    margin: 30px;
+  padding: 5px;
+  background: rgba(255, 255, 0, 0.185);
+  border: 1px solid rgb(0, 0, 0);
+  outline: 3px solid rgb(9, 255, 0);
+  outline-offset: 15px;
+}
+.box-2{
+    margin: 30px;
+  padding: 5px;
+  background: rgb(255, 0, 255);
+  border: 1px solid rgb(255, 172, 172);
+  outline: 3px solid rgb(88, 49, 49);
+  outline-offset: 15px;
+}
+.box-2{
+ margin: 30px;
+  padding: 5px;
+  background: rgb(243, 243, 211);
+  border: 1px solid rgb(0, 0, 0);
+  outline: 3px solid rgb(165, 113, 113);
+  outline-offset: 15px;}
+.box-3{
+     margin: 30px;
+  padding: 5px;
+  background: rgb(56, 56, 33);
+  border: 1px solid rgb(0, 0, 0);
+  outline: 3px solid rgb(184, 171, 171);
+  outline-offset: 15px;
+}
+.box-4{
+     margin: 30px;
+  padding: 5px;
+  background: rgb(15, 6, 99);
+  border: 1px solid rgb(156, 114, 114);
+  outline: 3px solid rgba(255, 0, 0, 0.13);
+  outline-offset: 15px;
+}
+.box-5{
+     margin: 30px;
+  padding: 5px;
+  background: rgb(162, 153, 240);
+  border: 1px solid rgb(255, 81, 81);
+  outline: 3px solid rgb(255, 0, 0);
+  outline-offset: 15px;
+}
+.box-6{
+     margin: 30px;
+  padding: 5px;
+  background: rgb(104, 94, 192);
+  border: 1px solid rgb(255, 163, 163);
+  outline: 3px solid rgba(73, 3, 3, 0);
+  outline-offset: 15px;
+}
+.box-7{
+     margin: 30px;
+  padding: 5px;
+  background: rgb(255, 0, 0);
+  border: 1px solid rgb(255, 255, 255);
+  outline: 3px solid rgb(114, 38, 38);
+  outline-offset: 15px;
+}
+.box-8{
+     margin: 30px;
+  padding: 5px;
+  background: rgb(255, 0, 255);
+  border: 1px solid rgb(255, 255, 255);
+  outline: 3px solid rgb(114, 38, 38);
+  outline-offset: 15px;
+}
+.box-9{
+     margin: 30px;
+  padding: 5px;
+  background: rgb(255, 255, 0);
+  border: 1px solid rgb(255, 255, 255);
+  outline: 3px solid rgb(114, 38, 38);
+  outline-offset: 15px;
+}
+.box-10{
+     margin: 30px;
+  padding: 5px;
+  background: rgb(0, 255, 255);
+  border: 1px solid rgb(255, 255, 255);
+  outline: 3px solid rgb(114, 38, 38);
+  outline-offset: 15px;
+}
